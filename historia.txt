@@ -3,3 +3,5 @@ Este es el texto de prueba que escribo para el curso profesional de git y git hu
 Ahora voy a hacer un cambio en este texto para que
 se vea reflejado en el nuevo commit
 Estoy escribiendo la primera version de este texto
+
+Ahora, voy a agregar un parrafo para más placer
